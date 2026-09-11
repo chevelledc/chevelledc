@@ -127,13 +127,13 @@ Exploring practical security operations concepts including monitoring, investiga
 
 ---
 
-# 📂 Featured Projects
+## 📜 Certifications
 
-| Project                                 | Focus                                                      | Technologies                      |
-| --------------------------------------- | ---------------------------------------------------------- | --------------------------------- |
-| 🔍 **Vulnerability Management Program** | Vulnerability identification, prioritization & remediation | Vulnerability Management          |
-| ⚙️ **Programmatic Remediation**         | Automated vulnerability remediation                        | PowerShell, Bash, Shell           |
-| 🕵️ **Threat Hunting Scenario**         | Threat investigation & detection                           | Threat Hunting, Security Analysis |
+| Certification          | Status         |
+| ---------------------- | -------------- |
+| **Comptia Security+** | 🔄 In Progress |
+| **Comptia Network+** | ✅ Completed    |
+
 
 ---
 
