@@ -99,6 +99,10 @@ Exploring practical security operations concepts including monitoring, investiga
 <img src="https://img.shields.io/badge/Incident%20Response-555?style=flat-square">
 </p>
 
+<a href="https://github.com/chevelledc/SOC-Incident-Report-IR-Honeypot.git">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
 </td>
 </tr>
 </table>
