@@ -13,90 +13,22 @@ This portfolio showcases my **hands-on cybersecurity projects**, covering vulner
 
 ---
 
-# Vulnerability Management
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<h3>🔍 Vulnerability Management Program</h3>
-
-<p>
-A structured approach to identifying, assessing, prioritizing, and remediating vulnerabilities across an environment.
-</p>
-
-<p>
-<img src="https://img.shields.io/badge/Vulnerability%20Management-8A2BE2?style=flat-square">
-<img src="https://img.shields.io/badge/Risk%20Assessment-555?style=flat-square">
-<img src="https://img.shields.io/badge/Remediation-555?style=flat-square">
-</p>
-
-<a href="https://github.com/joshcybertest/vulnerability-management-program">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3>⚙️ Programmatic Vulnerability Remediation</h3>
-
-<p>
-Automated vulnerability remediation using PowerShell, Bash, and shell commands to improve efficiency and reduce manual intervention.
-</p>
-
-<p>
-<img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white">
-<img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white">
-<img src="https://img.shields.io/badge/Automation-555?style=flat-square">
-</p>
-
-<a href="https://github.com/joshcybertest/programmatic-vulnerability-remediations">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-</td>
-</tr>
-</table>
-
----
-
 # Threat Hunting & Security Operations
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="100%" valign="top">
 
-<h3>🕵️ Threat Hunting — Tor Browser Usage</h3>
+<h3>🚨 Incident Response & Forensics — MySQL Extortion</h3>
 
 <p>
-A hands-on threat-hunting investigation focused on identifying and analyzing potential Tor Browser usage through security telemetry and suspicious activity indicators.
+Documenting a real-world MySQL database destruction and extortion attack on <code>FINANCE-SRV03</code>. This project covers end-to-end incident handling—from initial telemetry investigation and forensic root cause analysis to containment, recovery, and MITRE ATT&CK mapping.
 </p>
 
 <p>
-<img src="https://img.shields.io/badge/Threat%20Hunting-8B0000?style=flat-square">
-<img src="https://img.shields.io/badge/Investigation-555?style=flat-square">
-<img src="https://img.shields.io/badge/Detection-555?style=flat-square">
-</p>
-
-<a href="https://github.com/joshmadakor0/threat-hunting-scenario-tor">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3>🛡️ Security Operations</h3>
-
-<p>
-Exploring practical security operations concepts including monitoring, investigation, detection, and incident response through hands-on scenarios.
-</p>
-
-<p>
-<img src="https://img.shields.io/badge/SOC-0066FF?style=flat-square">
-<img src="https://img.shields.io/badge/Monitoring-555?style=flat-square">
-<img src="https://img.shields.io/badge/Incident%20Response-555?style=flat-square">
+<img src="https://img.shields.io/badge/DFIR-Incident%20Response-red?style=flat-square">
+<img src="https://img.shields.io/badge/Threat-Database%20Extortion-orange?style=flat-square">
+<img src="https://img.shields.io/badge/Environment-Azure%20%2F%20MySQL-00758F?style=flat-square">
 </p>
 
 <a href="https://github.com/chevelledc/SOC-Incident-Report-IR-Honeypot.git">
