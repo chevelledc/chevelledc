@@ -13,7 +13,7 @@ This portfolio showcases my **hands-on cybersecurity projects**, covering vulner
 
 ---
 
-# ⚠️ Vulnerability Management
+# Vulnerability Management
 
 <table>
 <tr>
@@ -61,7 +61,7 @@ Automated vulnerability remediation using PowerShell, Bash, and shell commands t
 
 ---
 
-# 🚨 Threat Hunting & Security Operations
+# Threat Hunting & Security Operations
 
 <table>
 <tr>
