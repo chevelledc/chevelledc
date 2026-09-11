@@ -1,32 +1,167 @@
-# <a href="https://www.linkedin.com/in/chevellegauisdelacruz/">Chevelle Gauis Dela Cruz</a>'s IT and Cybersecurity Project Portfolio 🔐
+# 🔐 Chevelle Gauis Dela Cruz
+## 👨‍💻 About Me
 
-I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Go ahead and check them out and see the work I’ve put into refining security operations and processes!
+I'm passionate about **cybersecurity, IT, and security operations**, with a strong interest in identifying vulnerabilities, investigating threats, and developing practical security solutions.
 
+This portfolio showcases my **hands-on cybersecurity projects**, covering vulnerability management, threat hunting, security operations, automation, and system remediation.
 
-## ⚠️ Vulnerability Management Projects
+> **GOAL:** Continuously develop practical cybersecurity skills by working through realistic security scenarios and documenting the process, findings, and solutions.
 
-- **[Vulnerability Management Program Implementation](https://github.com/joshcybertest/vulnerability-management-program)**
-- **[Programmatic Vulnerability Remediations (PowerShell, BASH, & Shell Commands)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
+---
 
-## 🚨 Threat Hunting and Security Operations
+# ⚠️ Vulnerability Management
 
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<hr/>
+<h3>🔍 Vulnerability Management Program</h3>
 
-## 🤳 Connect With Me
+<p>
+A structured approach to identifying, assessing, prioritizing, and remediating vulnerabilities across an environment.
+</p>
 
-[<img align="left" alt="___________ | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="___________ | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="___________ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="___________ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<p>
+<img src="https://img.shields.io/badge/Vulnerability%20Management-8A2BE2?style=flat-square">
+<img src="https://img.shields.io/badge/Risk%20Assessment-555?style=flat-square">
+<img src="https://img.shields.io/badge/Remediation-555?style=flat-square">
+</p>
 
-[twitter]: https://twitter.com/___________
-[youtube]: https://www.youtube.com/c/___________
-[instagram]: https://www.instagram.com/dcloadingg
-[linkedin]: https://linkedin.com/in/chevellegauisdelacruz/
+<a href="https://github.com/joshcybertest/vulnerability-management-program">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
-<!--
-<img width="35" alt="image" src="https://github.com/user-attachments/assets/2f41c7cd-5ea8-4475-b451-a37161b6c3fb"> 
-<img width="35" alt="image" src="https://github.com/user-attachments/assets/77649969-9910-4994-8b96-74a116cfb2a8">
--->
+</td>
+
+<td width="50%" valign="top">
+
+<h3>⚙️ Programmatic Vulnerability Remediation</h3>
+
+<p>
+Automated vulnerability remediation using PowerShell, Bash, and shell commands to improve efficiency and reduce manual intervention.
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white">
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white">
+<img src="https://img.shields.io/badge/Automation-555?style=flat-square">
+</p>
+
+<a href="https://github.com/joshcybertest/programmatic-vulnerability-remediations">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🚨 Threat Hunting & Security Operations
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h3>🕵️ Threat Hunting — Tor Browser Usage</h3>
+
+<p>
+A hands-on threat-hunting investigation focused on identifying and analyzing potential Tor Browser usage through security telemetry and suspicious activity indicators.
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/Threat%20Hunting-8B0000?style=flat-square">
+<img src="https://img.shields.io/badge/Investigation-555?style=flat-square">
+<img src="https://img.shields.io/badge/Detection-555?style=flat-square">
+</p>
+
+<a href="https://github.com/joshmadakor0/threat-hunting-scenario-tor">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>🛡️ Security Operations</h3>
+
+<p>
+Exploring practical security operations concepts including monitoring, investigation, detection, and incident response through hands-on scenarios.
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/SOC-0066FF?style=flat-square">
+<img src="https://img.shields.io/badge/Monitoring-555?style=flat-square">
+<img src="https://img.shields.io/badge/Incident%20Response-555?style=flat-square">
+</p>
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🛠️ Technical Skills
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
+<img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white" />
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Vulnerability%20Management-6A1B9A?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Threat%20Hunting-B71C1C?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Security%20Operations-1565C0?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Security%20Automation-2E7D32?style=for-the-badge" />
+
+</p>
+
+---
+
+# 📂 Featured Projects
+
+| Project                                 | Focus                                                      | Technologies                      |
+| --------------------------------------- | ---------------------------------------------------------- | --------------------------------- |
+| 🔍 **Vulnerability Management Program** | Vulnerability identification, prioritization & remediation | Vulnerability Management          |
+| ⚙️ **Programmatic Remediation**         | Automated vulnerability remediation                        | PowerShell, Bash, Shell           |
+| 🕵️ **Threat Hunting Scenario**         | Threat investigation & detection                           | Threat Hunting, Security Analysis |
+
+---
+
+# 📈 What I'm Currently Developing
+
+* 🔍 Vulnerability assessment and remediation skills
+* 🕵️ Threat hunting and investigation techniques
+* 🛡️ Security operations and monitoring
+* ⚙️ Security automation with PowerShell and Bash
+* 📊 Security analysis and documentation
+* 🚨 Incident detection and response workflows
+
+---
+
+# 🤳 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/chevellegauisdelacruz/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="https://www.instagram.com/dcloadingg">
+<img src="https://img.shields.io/badge/Instagram-@dcloadingg-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+
+</p>
+
+---
+
+<p align="center">
+  <b>🔐 Learn. Build. Secure.</b>
+  <br>
+  <sub>Continuously learning and building practical cybersecurity projects.</sub>
+</p>
