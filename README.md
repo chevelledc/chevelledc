@@ -1,5 +1,5 @@
 # 🔐 Chevelle Gauis Dela Cruz
-## 👨‍💻 About Me
+## About Me
 
 I'm passionate about **cybersecurity, IT, and security operations**, with a strong interest in identifying vulnerabilities, investigating threats, and developing practical security solutions.
 
