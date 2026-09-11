@@ -148,21 +148,6 @@ Exploring practical security operations concepts including monitoring, investiga
 
 ---
 
-# 🤳 Connect With Me
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/chevellegauisdelacruz/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-<a href="https://www.instagram.com/dcloadingg">
-<img src="https://img.shields.io/badge/Instagram-@dcloadingg-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
-
-</p>
-
----
 
 <p align="center">
   <b>🔐 Learn. Build. Secure.</b>
