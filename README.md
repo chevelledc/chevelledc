@@ -5,7 +5,11 @@ I'm passionate about **cybersecurity, IT, and security operations**, with a stro
 
 This portfolio showcases my **hands-on cybersecurity projects**, covering vulnerability management, threat hunting, security operations, automation, and system remediation.
 
-> **GOAL:** Continuously develop practical cybersecurity skills by working through realistic security scenarios and documenting the process, findings, and solutions.
+<div align="justify">
+
+> **GOAL:** Continuously develop practical cybersecurity skills by working through realistic security scenarios, documenting the process, findings, and solutions, and sharing what I learn along the way. I hope to inspire and help others who are looking to enter the cybersecurity field by showing that with curiosity, hands-on practice, and continuous learning, anyone can build the skills needed to help protect organizations and their people.
+
+</div>
 
 ---
 
