@@ -8,7 +8,6 @@ I believe we move to the next level by **building things that create value for o
 
 > **Purpose:** This portfolio showcases my **hands-on projects**, covering vulnerability management, threat hunting, security operations, automation, and system remediation.
 
-
 </div>
 
 ---
@@ -41,11 +40,13 @@ Documenting a real-world MySQL database destruction and extortion attack on <cod
 
 <br>
 
+# Vulnerability Management
+
 <table>
 <tr>
 <td width="100%" valign="top">
 
-<h3>🛡️ Vulnerability Management</h3>
+<h3>🛡️ Vulnerability Management Program</h3>
 
 <p>
 Documenting the development and implementation of a vulnerability management program, covering vulnerability assessment, risk prioritization, remediation, change management, and validation. This project demonstrates the use of Tenable to identify vulnerabilities across an Azure environment, followed by hands-on remediation using PowerShell and BASH and validation through follow-up scans.
