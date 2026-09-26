@@ -2,13 +2,12 @@
 
 ## About Me
 
-I'm passionate about **cybersecurity, IT, and security operations**, with a strong interest in identifying vulnerabilities, investigating threats, and developing practical security solutions.
-
-This portfolio showcases my **hands-on cybersecurity projects**, covering vulnerability management, threat hunting, security operations, automation, and system remediation.
+I believe we move to the next level by **building things that create value for ourselves and for others**. By breaking systems, rebuilding them, and creating projects from the ground up, we develop more than just technical knowledge—we develop an understanding of **how systems actually work**. Hands-on projects give us the intuition to recognize how different tools, technologies, and scenarios behave in the real world, allowing us to approach problems with greater confidence, understand what happens beyond the documentation, and develop the ability to think through unfamiliar situations.
 
 <div align="justify">
 
-> **Purpose:** Continuously develop practical cybersecurity skills by working through realistic security scenarios, documenting the process, findings, and solutions, and sharing what I learn along the way. I hope to inspire and help others who are looking to enter the cybersecurity field by showing that with curiosity, hands-on practice, and continuous learning, anyone can build the skills needed to help protect organizations and their people.
+> **Purpose:** This portfolio showcases my **hands-on projects**, covering vulnerability management, threat hunting, security operations, automation, and system remediation.
+
 
 </div>
 
