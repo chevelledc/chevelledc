@@ -1,4 +1,5 @@
-# 🔐 Chevelle Gauis Dela Cruz
+# Chevelle Gauis Dela Cruz
+
 ## About Me
 
 I'm passionate about **cybersecurity, IT, and security operations**, with a strong interest in identifying vulnerabilities, investigating threats, and developing practical security solutions.
@@ -39,6 +40,33 @@ Documenting a real-world MySQL database destruction and extortion attack on <cod
 </tr>
 </table>
 
+<br>
+
+<table>
+<tr>
+<td width="100%" valign="top">
+
+<h3>🛡️ Vulnerability Management</h3>
+
+<p>
+Documenting the development and implementation of a vulnerability management program, covering vulnerability assessment, risk prioritization, remediation, change management, and validation. This project demonstrates the use of Tenable to identify vulnerabilities across an Azure environment, followed by hands-on remediation using PowerShell and BASH and validation through follow-up scans.
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/Vulnerability%20Management-Risk%20%26%20Remediation-6A1B9A?style=flat-square">
+<img src="https://img.shields.io/badge/Tool-Tenable-orange?style=flat-square">
+<img src="https://img.shields.io/badge/Environment-Azure%20%2F%20Windows-00758F?style=flat-square">
+<img src="https://img.shields.io/badge/Remediation-81%25%20Reduction-green?style=flat-square">
+</p>
+
+<a href="https://github.com/chevelledc/vulnerability-management-program">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</td>
+</tr>
+</table>
+
 ---
 
 # 🛠️ Technical Skills
@@ -65,11 +93,10 @@ Documenting a real-world MySQL database destruction and extortion attack on <cod
 
 ## 📜 Certifications
 
-| Certification          | Status         |
-| ---------------------- | -------------- |
-| **Comptia Security+** | 🔄 In Progress |
-| **Comptia Network+** | ✅ Completed    |
-
+| Certification         | Status         |
+| --------------------- | -------------- |
+| **CompTIA Security+** | 🔄 In Progress |
+| **CompTIA Network+**  | ✅ Completed    |
 
 ---
 
@@ -83,7 +110,6 @@ Documenting a real-world MySQL database destruction and extortion attack on <cod
 * 🚨 Incident detection and response workflows
 
 ---
-
 
 <p align="center">
   <b>🔐 Learn. Build. Secure.</b>
