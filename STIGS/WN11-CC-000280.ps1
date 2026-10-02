@@ -1,4 +1,3 @@
-```powershell
 <#
 .SYNOPSIS
     This PowerShell script configures Windows 11 to always prompt
@@ -50,4 +49,3 @@ gpupdate /force
 Get-ItemProperty `
     -Path $Path `
     -Name "fPromptForPassword"
-```
