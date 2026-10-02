@@ -67,7 +67,7 @@ Documenting a real-world MySQL database destruction and extortion attack on <cod
 <img src="https://img.shields.io/badge/Remediation-PowerShell-5391FE?style=flat-square">
 <img src="https://img.shields.io/badge/STIG%20Remediations-6A1B9A?style=flat-square"> </p>
 
-<a href="https://github.com/chevelledc/windows-11-stig-remediation"> <img src="https://img.shields.io/badge/VIEW%20PROJECT-181717?style=for-the-badge&logo=github&logoColor=white"> </a>
+<a href="https://github.com/chevelledc/chevelledc/tree/main/STIGS"> <img src="https://img.shields.io/badge/VIEW%20STIGS-181717?style=for-the-badge&logo=github&logoColor=white"> </a>
 
 </td> </tr> </table>
 
