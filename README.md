@@ -42,30 +42,34 @@ Documenting a real-world MySQL database destruction and extortion attack on <cod
 
 # Vulnerability Management
 
-<table>
-<tr>
-<td width="100%" valign="top">
+<table> <tr> <td width="100%" valign="top">
 
 <h3>🛡️ Vulnerability Management Program</h3>
 
-<p>
-Documenting the development and implementation of a vulnerability management program, covering vulnerability assessment, risk prioritization, remediation, change management, and validation. This project demonstrates the use of Tenable to identify vulnerabilities across an Azure environment, followed by hands-on remediation using PowerShell and BASH and validation through follow-up scans.
-</p>
+<p> Documenting the development and implementation of a vulnerability management program, covering vulnerability assessment, risk prioritization, remediation, change management, and validation. This project demonstrates the use of Tenable to identify vulnerabilities across an Azure environment, followed by hands-on remediation using PowerShell and BASH and validation through follow-up scans. </p>
 
 <p>
 <img src="https://img.shields.io/badge/Vulnerability%20Management-Risk%20%26%20Remediation-6A1B9A?style=flat-square">
 <img src="https://img.shields.io/badge/Tool-Tenable-orange?style=flat-square">
 <img src="https://img.shields.io/badge/Environment-Azure%20%2F%20Windows-00758F?style=flat-square">
-<img src="https://img.shields.io/badge/Remediation-81%25%20Reduction-green?style=flat-square">
+<img src="https://img.shields.io/badge/Remediation-80%25%20Reduction-green?style=flat-square">
 </p>
 
-<a href="https://github.com/chevelledc/vulnerability-management-program">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
+<a href="https://github.com/chevelledc/vulnerability-management-program"> <img src="https://img.shields.io/badge/VIEW%20PROJECT-181717?style=for-the-badge&logo=github&logoColor=white"> </a>
 
-</td>
-</tr>
-</table>
+<hr>
+
+<h3>🔐 Windows STIG Remediation</h3>
+
+<p> Hands-on remediation of Windows 11 STIG findings using PowerShell, with a focus on secure configuration, policy enforcement, verification, and compliance validation. </p>
+
+<p> <img src="https://img.shields.io/badge/Windows%2011-STIG-0078D6?style=flat-square">
+<img src="https://img.shields.io/badge/Remediation-PowerShell-5391FE?style=flat-square">
+<img src="https://img.shields.io/badge/STIG%20Remediations-6A1B9A?style=flat-square"> </p>
+
+<a href="https://github.com/chevelledc/windows-11-stig-remediation"> <img src="https://img.shields.io/badge/VIEW%20PROJECT-181717?style=for-the-badge&logo=github&logoColor=white"> </a>
+
+</td> </tr> </table>
 
 ---
 
