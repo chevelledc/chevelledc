@@ -6,7 +6,7 @@
 .NOTES
     Author          : Chevelle Gauis Dela Cruz
     LinkedIn        : linkedin.com/in/chevellegauisdelacruz/
-    GitHub          : github.com/joshmadakor1
+    GitHub          : github.com/chevelledc
     Date Created    : 2026-10-02
     Last Modified   : 2026-10-02
     Version         : 1.0
