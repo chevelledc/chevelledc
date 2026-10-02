@@ -1,4 +1,3 @@
-```powershell
 <#
 .SYNOPSIS
     This PowerShell script disables printing over HTTP by configuring
@@ -46,4 +45,3 @@ gpupdate /force
 Get-ItemProperty `
     -Path $Path `
     -Name "DisableHTTPPrinting"
-```
