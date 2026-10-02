@@ -112,11 +112,3 @@ Documenting a real-world MySQL database destruction and extortion attack on <cod
 * ⚙️ Security automation with PowerShell and Bash
 * 📊 Security analysis and documentation
 * 🚨 Incident detection and response workflows
-
----
-
-<p align="center">
-  <b>🔐 Learn. Build. Secure.</b>
-  <br>
-  <sub>Continuously learning and building practical cybersecurity projects.</sub>
-</p>
