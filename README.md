@@ -32,7 +32,7 @@ I believe we move to the next level by **building things that create value for o
 
 <p> <img src="https://img.shields.io/badge/Threat%20Hunting-Meridian-B71C1C?style=flat-square"> <img src="https://img.shields.io/badge/Attack%20Chain-SQLi%20%2F%20SSH%20%2F%20PrivEsc-orange?style=flat-square"> <img src="https://img.shields.io/badge/Environment-Ubuntu%20%2F%20Apache%20%2F%20MySQL-00758F?style=flat-square"> <img src="https://img.shields.io/badge/Focus-Telemetry%20%26%20Investigation-6A1B9A?style=flat-square"> </p>
 
-<a href="YOUR-MERIDIAN-THREAT-HUNT-REPORT-LINK"> <img src="https://img.shields.io/badge/VIEW%20THREAT%20HUNT-181717?style=for-the-badge&logo=github&logoColor=white"> </a>
+<a href="https://github.com/chevelledc/Threat-Hunt-Report-Meridian-Portal-Intrusion.git"> <img src="https://img.shields.io/badge/VIEW%20THREAT%20HUNT-181717?style=for-the-badge&logo=github&logoColor=white"> </a>
 
 </td> </tr> </table>
 
