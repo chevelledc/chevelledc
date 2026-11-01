@@ -42,7 +42,7 @@ I believe we move to the next level by **building things that create value for o
 
 <p> <img src="https://img.shields.io/badge/Threat%20Intelligence-Solar%20Spider-B71C1C?style=flat-square"> <img src="https://img.shields.io/badge/Malware-JSOutProx%20RAT-orange?style=flat-square"> <img src="https://img.shields.io/badge/Focus-IOCs%20%26%20OSINT-6A1B9A?style=flat-square"> <img src="https://img.shields.io/badge/Validation-VirusTotal-00758F?style=flat-square"> </p>
 
-<a href="https://github.com/chevelledc/chevelledc/blob/main/Threat-Reports/Solar_Spider_Threat_Report.pdf"> <img src="https://img.shields.io/badge/VIEW%20THREAT%20REPORT-181717?style=for-the-badge&logo=github&logoColor=white"> </a>
+<a href="https://github.com/chevelledc/chevelledc/blob/main/Solar_Spider_Threat_Report%20(1).pdf"> <img src="https://img.shields.io/badge/VIEW%20THREAT%20REPORT-181717?style=for-the-badge&logo=github&logoColor=white"> </a>
 
 </td> </tr> </table>
 
