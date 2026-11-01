@@ -36,7 +36,7 @@ I believe we move to the next level by **building things that create value for o
 
 <hr>
 
-<h3>🕷️ Threat Report — Solar Spider (JSOutProx)</h3>
+<h3>🕷️ Threat Report — Solar Spider</h3>
 
 <p> Open-source threat intelligence report on SOLAR SPIDER, a financially motivated eCrime actor behind the JSOutProx RAT, which targets banks and financial services across APAC and MENA. The report covers the analysis summary, impact, MITRE ATT&amp;CK techniques, defanged indicators of compromise (hashes, IPs, domains, URLs), VirusTotal validation of selected indicators, and remediation guidance. </p>
 
